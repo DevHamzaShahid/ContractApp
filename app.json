@@ -1,0 +1,12 @@
+{
+  "name": "contractapp",
+  "displayName": "contractapp",
+  "expo": {
+    "name": "invoiceApp",
+    "slug": "invoiceApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
